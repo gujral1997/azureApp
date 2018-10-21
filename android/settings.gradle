@@ -1,0 +1,3 @@
+rootProject.name = 'azureApp'
+
+include ':app'
