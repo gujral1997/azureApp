@@ -99,6 +99,7 @@ apply from: 'expo.gradle'
 
 
 dependencies {
+    compile project(':react-native-linear-gradient')
     compile project(':mobile-center')
   implementation fileTree(dir: 'libs', include: ['*.jar'])
 
