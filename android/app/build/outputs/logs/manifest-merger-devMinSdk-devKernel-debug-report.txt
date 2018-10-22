@@ -4,15 +4,21 @@ ADDED from /home/ansh/expo/android/app/src/main/AndroidManifest.xml:2:1-321:12
 INJECTED from /home/ansh/expo/android/app/src/main/AndroidManifest.xml:2:1-321:12
 INJECTED from /home/ansh/expo/android/app/src/main/AndroidManifest.xml:2:1-321:12
 INJECTED from /home/ansh/expo/android/app/src/main/AndroidManifest.xml:2:1-321:12
+MERGED from [:react-native-blur] /home/ansh/expo/node_modules/react-native-blur/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-fingerprint-scanner] /home/ansh/expo/node_modules/react-native-fingerprint-scanner/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-15:12
+MERGED from [:react-native-linear-gradient] /home/ansh/expo/node_modules/react-native-linear-gradient/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:mobile-center] /home/ansh/expo/node_modules/mobile-center/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [host.exp.exponent:expoview:30.0.0] /root/.gradle/caches/transforms-1/files-1.1/expoview-30.0.0.aar/1222e0f31792ba48d5a8ebac5aab15d8/AndroidManifest.xml:2:1-88:12
 MERGED from [com.squareup.leakcanary:leakcanary-android-no-op:1.4-beta1] /root/.gradle/caches/transforms-1/files-1.1/leakcanary-android-no-op-1.4-beta1.aar/996299755ddfd19d74667cb18e6a9f01/AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:multidex:1.0.1] /root/.gradle/caches/transforms-1/files-1.1/multidex-1.0.1.aar/581fca7210b95d8c424b5822f55fd380/AndroidManifest.xml:16:1-19:12
 MERGED from [com.theartofdev.edmodo:android-image-cropper:2.4.7] /root/.gradle/caches/transforms-1/files-1.1/android-image-cropper-2.4.7.aar/7f9a96cbce95d9170778604d2ecc7163/AndroidManifest.xml:2:1-12:12
+MERGED from [com.facebook.react:react-native:30.0.0] /root/.gradle/caches/transforms-1/files-1.1/react-native-30.0.0.aar/ad134822de6cc6d70521286480da36a8/AndroidManifest.xml:2:1-15:12
+MERGED from [com.wei.android.lib:fingerprintidentify:1.2.1] /root/.gradle/caches/transforms-1/files-1.1/fingerprintidentify-1.2.1.aar/c84161a72c4fda015ee5b846fff6e4ed/AndroidManifest.xml:2:1-12:12
+MERGED from [com.microsoft.azure.mobile.react:mobile-center-react-native:0.11.2] /root/.gradle/caches/transforms-1/files-1.1/mobile-center-react-native-0.11.2.aar/cf669e844784c942d1601154bac78f5c/AndroidManifest.xml:2:1-11:12
 MERGED from [com.facebook.android:facebook-android-sdk:4.34.0] /root/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.34.0.aar/53db920539e1838754fb9d520ed208d5/AndroidManifest.xml:21:1-31:12
 MERGED from [com.facebook.android:facebook-login:4.34.0] /root/.gradle/caches/transforms-1/files-1.1/facebook-login-4.34.0.aar/e06457ac22855adfc8038d4e464bdfc5/AndroidManifest.xml:21:1-31:12
 MERGED from [com.facebook.android:facebook-share:4.34.0] /root/.gradle/caches/transforms-1/files-1.1/facebook-share-4.34.0.aar/0a3fbd4200ad79210711fccb3a153c97/AndroidManifest.xml:21:1-31:12
 MERGED from [com.facebook.android:facebook-common:4.34.0] /root/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/37b8f12b695e4e3cd82ac36339749629/AndroidManifest.xml:21:1-37:12
-MERGED from [com.facebook.react:react-native:30.0.0] /root/.gradle/caches/transforms-1/files-1.1/react-native-30.0.0.aar/ad134822de6cc6d70521286480da36a8/AndroidManifest.xml:2:1-15:12
 MERGED from [host.exp.exponent:expo-permissions:1.1.0] /root/.gradle/caches/transforms-1/files-1.1/expo-permissions-1.1.0.aar/4fdc42cd016b2905b2a579faeaffa346/AndroidManifest.xml:2:1-11:12
 MERGED from [host.exp.exponent:expo-camera:1.1.0] /root/.gradle/caches/transforms-1/files-1.1/expo-camera-1.1.0.aar/fb29b8aeb6f9a0ad714879249ce14f46/AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.android:cameraview:1.0.0] /root/.gradle/caches/transforms-1/files-1.1/cameraview-1.0.0.aar/84d253b3015a4291ad56c49fe3ce1f89/AndroidManifest.xml:14:1-34:12
@@ -46,20 +52,21 @@ MERGED from [io.nlopez.smartlocation:library:3.2.11] /root/.gradle/caches/transf
 MERGED from [host.exp.exponent:expo-face-detector:1.0.2] /root/.gradle/caches/transforms-1/files-1.1/expo-face-detector-1.0.2.aar/e53e7878dc202fa5076488afdfa8a00d/AndroidManifest.xml:2:1-11:12
 MERGED from [host.exp.exponent:expo-media-library:1.0.0] /root/.gradle/caches/transforms-1/files-1.1/expo-media-library-1.0.0.aar/6a3faf489bb07bf67d81bc89395b8558/AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:exifinterface:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.1.aar/125a20e392756dd13681bfa325cdc00f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.0.1] /root/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.0.1.aar/34c264e8c81f9fe23a51b7351894799c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.microsoft.azure.mobile:mobile-center:0.13.0] /root/.gradle/caches/transforms-1/files-1.1/mobile-center-0.13.0.aar/5eab7aac9fe39436fbb8e1ffbe63e719/AndroidManifest.xml:2:1-14:12
 MERGED from [com.facebook.android:facebook-places:4.34.0] /root/.gradle/caches/transforms-1/files-1.1/facebook-places-4.34.0.aar/2e7f621d7b06edad50d6570114ef9ca9/AndroidManifest.xml:21:1-31:12
 MERGED from [com.facebook.android:facebook-applinks:4.34.0] /root/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.34.0.aar/99767a8c62f9d6170baf8a910e74c093/AndroidManifest.xml:21:1-31:12
 MERGED from [com.facebook.android:facebook-messenger:4.34.0] /root/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.34.0.aar/04cf9c615d2d0819d16b0d9ef2cc384f/AndroidManifest.xml:21:1-31:12
 MERGED from [com.facebook.android:facebook-marketing:4.34.0] /root/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.34.0.aar/d1548fad2c62d5c48baa98f2f4224b35/AndroidManifest.xml:21:1-35:12
 MERGED from [com.facebook.android:facebook-core:4.34.0] /root/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/bce42df818222d2c4474de208bfb37c9/AndroidManifest.xml:21:1-53:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/c6b2a1bc80f6c1294f892ea014e43f7c/AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.exoplayer:exoplayer:2.6.1] /root/.gradle/caches/transforms-1/files-1.1/exoplayer-2.6.1.aar/07c61646bc9146a1ff34ca330ba87819/AndroidManifest.xml:17:1-25:12
 MERGED from [com.google.android.exoplayer:exoplayer-hls:2.6.1] /root/.gradle/caches/transforms-1/files-1.1/exoplayer-hls-2.6.1.aar/d47c7a2c65046feb32c7cace96b30928/AndroidManifest.xml:17:1-25:12
 MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.6.1] /root/.gradle/caches/transforms-1/files-1.1/exoplayer-smoothstreaming-2.6.1.aar/9e8bb230738da75537f5442577c73cef/AndroidManifest.xml:17:1-25:12
 MERGED from [com.google.android.exoplayer:exoplayer-ui:2.6.1] /root/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-2.6.1.aar/dcbd6af5ab02f7335946cdd3937f82a0/AndroidManifest.xml:17:1-25:12
 MERGED from [com.android.support:transition:27.1.0] /root/.gradle/caches/transforms-1/files-1.1/transition-27.1.0.aar/351d3be038db1dfdaab931977b6d2755/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:customtabs:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/customtabs-27.1.1.aar/5147058346e0f4884165990786f082fe/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:recyclerview-v7:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/c6b2a1bc80f6c1294f892ea014e43f7c/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:cardview-v7:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/4c582a6d262df275883963209a65ae45/AndroidManifest.xml:17:1-22:12
-MERGED from [host.exp.exponent:expo-local-authentication:1.0.0] /root/.gradle/caches/transforms-1/files-1.1/expo-local-authentication-1.0.0.aar/0f37c0a9412b2181687fd23dba65b04c/AndroidManifest.xml:2:1-13:12
 MERGED from [com.github.tipsi:CreditCardEntry:1.4.8.10] /root/.gradle/caches/transforms-1/files-1.1/CreditCardEntry-1.4.8.10.aar/0c6aa1fee4b746fb24991b490ef1d93b/AndroidManifest.xml:2:1-12:12
 MERGED from [com.google.android.gms:play-services-iid:15.0.1] /root/.gradle/caches/transforms-1/files-1.1/play-services-iid-15.0.1.aar/6f5e3a63cff5a5e0119cdddabf0ad1af/AndroidManifest.xml:17:1-28:12
 MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:16.0.1] /root/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-16.0.1.aar/7b93b44d8d5f725d3daa821cf9c3e029/AndroidManifest.xml:17:1-24:12
@@ -93,8 +100,9 @@ MERGED from [com.android.support:support-v4:27.1.0] /root/.gradle/caches/transfo
 MERGED from [com.android.support:support-fragment:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/d40119999e323203c252e105adf7245c/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:animated-vector-drawable:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/214341bf1eb5db529fd8961ae2c669cd/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-ui:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/c2595cd41d5d9bc45bfa1866b3e39d08/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-media-compat:27.1.0] /root/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/71d397368c94682852ecc3aac53fea98/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-utils:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/b52e5371262182ba70c39f41bfbe4527/AndroidManifest.xml:17:1-22:12
+MERGED from [host.exp.exponent:expo-local-authentication:1.0.0] /root/.gradle/caches/transforms-1/files-1.1/expo-local-authentication-1.0.0.aar/0f37c0a9412b2181687fd23dba65b04c/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:support-media-compat:27.1.0] /root/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/71d397368c94682852ecc3aac53fea98/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-vector-drawable:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/e0eec592156be82252c75a9a1c60e179/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-compat:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/97084ef54cad27503a2fff59c8265680/AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.exoplayer:exoplayer-dash:2.6.1] /root/.gradle/caches/transforms-1/files-1.1/exoplayer-dash-2.6.1.aar/00eb158b4b0f98be245e1d5d4e70eca8/AndroidManifest.xml:17:1-25:12
@@ -182,7 +190,6 @@ MERGED from [com.facebook.soloader:soloader:0.1.0] /root/.gradle/caches/transfor
 MERGED from [org.webkit:android-jsc:r174650] /root/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/0d5a0d88d33ff40a8514aafbb288ec81/AndroidManifest.xml:1:1-3:12
 MERGED from [com.crashlytics.sdk.android:crashlytics:2.5.5] /root/.gradle/caches/transforms-1/files-1.1/crashlytics-2.5.5.aar/9397a5c304caa14cd8571d3746c1fe6f/AndroidManifest.xml:2:1-13:12
 MERGED from [com.google.maps.android:android-maps-utils:0.5] /root/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/a8827c1030640461e4294b31663b9e00/AndroidManifest.xml:2:1-13:12
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.0.1] /root/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.0.1.aar/34c264e8c81f9fe23a51b7351894799c/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:drawee:1.0.1] /root/.gradle/caches/transforms-1/files-1.1/drawee-1.0.1.aar/fcd8d2ad418b904211876ca346f95b89/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:animated-base:1.0.1] /root/.gradle/caches/transforms-1/files-1.1/animated-base-1.0.1.aar/6227c859a022e345b942607ff09b3865/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:imagepipeline:1.0.1] /root/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.0.1.aar/91f273bd6e166f505eba6184016ded1c/AndroidManifest.xml:2:1-9:12
@@ -249,6 +256,8 @@ MERGED from [com.google.android.gms:play-services-maps:15.0.1] /root/.gradle/cac
 MERGED from [com.google.android.gms:play-services-maps:15.0.1] /root/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/298016b0048a6a901ae107eb1335020d/AndroidManifest.xml:23:5-79
 MERGED from [io.nlopez.smartlocation:library:3.2.11] /root/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/181a65c128fd699b175220b761e4fb6b/AndroidManifest.xml:13:5-79
 MERGED from [io.nlopez.smartlocation:library:3.2.11] /root/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/181a65c128fd699b175220b761e4fb6b/AndroidManifest.xml:13:5-79
+MERGED from [com.microsoft.azure.mobile:mobile-center:0.13.0] /root/.gradle/caches/transforms-1/files-1.1/mobile-center-0.13.0.aar/5eab7aac9fe39436fbb8e1ffbe63e719/AndroidManifest.xml:12:5-79
+MERGED from [com.microsoft.azure.mobile:mobile-center:0.13.0] /root/.gradle/caches/transforms-1/files-1.1/mobile-center-0.13.0.aar/5eab7aac9fe39436fbb8e1ffbe63e719/AndroidManifest.xml:12:5-79
 MERGED from [com.google.android.gms:play-services-analytics-impl:16.0.1] /root/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-16.0.1.aar/754526e90d7eaf8e0d90f424000aa290/AndroidManifest.xml:24:5-79
 MERGED from [com.google.android.gms:play-services-analytics-impl:16.0.1] /root/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-16.0.1.aar/754526e90d7eaf8e0d90f424000aa290/AndroidManifest.xml:24:5-79
 MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /root/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-16.0.1.aar/7f7143edff30e89b31c2b9c5bdad2b2e/AndroidManifest.xml:23:5-79
@@ -277,6 +286,8 @@ MERGED from [com.google.android.gms:play-services-maps:15.0.1] /root/.gradle/cac
 MERGED from [com.google.android.gms:play-services-maps:15.0.1] /root/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/298016b0048a6a901ae107eb1335020d/AndroidManifest.xml:24:5-67
 MERGED from [net.openid:appauth:0.4.1] /root/.gradle/caches/transforms-1/files-1.1/appauth-0.4.1.aar/e00fc49866260ce785e9ef1b638a3689/AndroidManifest.xml:24:5-67
 MERGED from [net.openid:appauth:0.4.1] /root/.gradle/caches/transforms-1/files-1.1/appauth-0.4.1.aar/e00fc49866260ce785e9ef1b638a3689/AndroidManifest.xml:24:5-67
+MERGED from [com.microsoft.azure.mobile:mobile-center:0.13.0] /root/.gradle/caches/transforms-1/files-1.1/mobile-center-0.13.0.aar/5eab7aac9fe39436fbb8e1ffbe63e719/AndroidManifest.xml:11:5-67
+MERGED from [com.microsoft.azure.mobile:mobile-center:0.13.0] /root/.gradle/caches/transforms-1/files-1.1/mobile-center-0.13.0.aar/5eab7aac9fe39436fbb8e1ffbe63e719/AndroidManifest.xml:11:5-67
 MERGED from [com.google.android.gms:play-services-iid:15.0.1] /root/.gradle/caches/transforms-1/files-1.1/play-services-iid-15.0.1.aar/6f5e3a63cff5a5e0119cdddabf0ad1af/AndroidManifest.xml:24:5-67
 MERGED from [com.google.android.gms:play-services-iid:15.0.1] /root/.gradle/caches/transforms-1/files-1.1/play-services-iid-15.0.1.aar/6f5e3a63cff5a5e0119cdddabf0ad1af/AndroidManifest.xml:24:5-67
 MERGED from [com.google.android.gms:play-services-analytics-impl:16.0.1] /root/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-16.0.1.aar/754526e90d7eaf8e0d90f424000aa290/AndroidManifest.xml:23:5-67
@@ -361,6 +372,8 @@ ADDED from /home/ansh/expo/android/app/src/main/AndroidManifest.xml:23:3-73
 		ADDED from /home/ansh/expo/android/app/src/main/AndroidManifest.xml:23:20-70
 uses-permission#android.permission.USE_FINGERPRINT
 ADDED from /home/ansh/expo/android/app/src/main/AndroidManifest.xml:24:3-72
+MERGED from [:react-native-fingerprint-scanner] /home/ansh/expo/node_modules/react-native-fingerprint-scanner/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-74
+MERGED from [:react-native-fingerprint-scanner] /home/ansh/expo/node_modules/react-native-fingerprint-scanner/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-74
 MERGED from [host.exp.exponent:expoview:30.0.0] /root/.gradle/caches/transforms-1/files-1.1/expoview-30.0.0.aar/1222e0f31792ba48d5a8ebac5aab15d8/AndroidManifest.xml:27:5-74
 MERGED from [host.exp.exponent:expoview:30.0.0] /root/.gradle/caches/transforms-1/files-1.1/expoview-30.0.0.aar/1222e0f31792ba48d5a8ebac5aab15d8/AndroidManifest.xml:27:5-74
 MERGED from [host.exp.exponent:expo-local-authentication:1.0.0] /root/.gradle/caches/transforms-1/files-1.1/expo-local-authentication-1.0.0.aar/0f37c0a9412b2181687fd23dba65b04c/AndroidManifest.xml:11:5-74
@@ -491,6 +504,8 @@ application
 ADDED from /home/ansh/expo/android/app/src/main/AndroidManifest.xml:49:3-319:17
 MERGED from [host.exp.exponent:expoview:30.0.0] /root/.gradle/caches/transforms-1/files-1.1/expoview-30.0.0.aar/1222e0f31792ba48d5a8ebac5aab15d8/AndroidManifest.xml:70:5-86:19
 MERGED from [host.exp.exponent:expoview:30.0.0] /root/.gradle/caches/transforms-1/files-1.1/expoview-30.0.0.aar/1222e0f31792ba48d5a8ebac5aab15d8/AndroidManifest.xml:70:5-86:19
+MERGED from [com.facebook.react:react-native:30.0.0] /root/.gradle/caches/transforms-1/files-1.1/react-native-30.0.0.aar/ad134822de6cc6d70521286480da36a8/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:30.0.0] /root/.gradle/caches/transforms-1/files-1.1/react-native-30.0.0.aar/ad134822de6cc6d70521286480da36a8/AndroidManifest.xml:13:5-20
 MERGED from [com.facebook.android:facebook-android-sdk:4.34.0] /root/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.34.0.aar/53db920539e1838754fb9d520ed208d5/AndroidManifest.xml:28:5-29:19
 MERGED from [com.facebook.android:facebook-android-sdk:4.34.0] /root/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.34.0.aar/53db920539e1838754fb9d520ed208d5/AndroidManifest.xml:28:5-29:19
 MERGED from [com.facebook.android:facebook-login:4.34.0] /root/.gradle/caches/transforms-1/files-1.1/facebook-login-4.34.0.aar/e06457ac22855adfc8038d4e464bdfc5/AndroidManifest.xml:28:5-29:19
@@ -499,8 +514,6 @@ MERGED from [com.facebook.android:facebook-share:4.34.0] /root/.gradle/caches/tr
 MERGED from [com.facebook.android:facebook-share:4.34.0] /root/.gradle/caches/transforms-1/files-1.1/facebook-share-4.34.0.aar/0a3fbd4200ad79210711fccb3a153c97/AndroidManifest.xml:28:5-29:19
 MERGED from [com.facebook.android:facebook-common:4.34.0] /root/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/37b8f12b695e4e3cd82ac36339749629/AndroidManifest.xml:28:5-35:19
 MERGED from [com.facebook.android:facebook-common:4.34.0] /root/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/37b8f12b695e4e3cd82ac36339749629/AndroidManifest.xml:28:5-35:19
-MERGED from [com.facebook.react:react-native:30.0.0] /root/.gradle/caches/transforms-1/files-1.1/react-native-30.0.0.aar/ad134822de6cc6d70521286480da36a8/AndroidManifest.xml:13:5-20
-MERGED from [com.facebook.react:react-native:30.0.0] /root/.gradle/caches/transforms-1/files-1.1/react-native-30.0.0.aar/ad134822de6cc6d70521286480da36a8/AndroidManifest.xml:13:5-20
 MERGED from [com.google.android:cameraview:1.0.0] /root/.gradle/caches/transforms-1/files-1.1/cameraview-1.0.0.aar/84d253b3015a4291ad56c49fe3ce1f89/AndroidManifest.xml:32:5-20
 MERGED from [com.google.android:cameraview:1.0.0] /root/.gradle/caches/transforms-1/files-1.1/cameraview-1.0.0.aar/84d253b3015a4291ad56c49fe3ce1f89/AndroidManifest.xml:32:5-20
 MERGED from [host.exp.exponent:expo-payments-stripe:1.0.1] /root/.gradle/caches/transforms-1/files-1.1/expo-payments-stripe-1.0.1.aar/c1c6e57f62637840cc80e1e5635134ac/AndroidManifest.xml:11:5-17:19
@@ -1021,6 +1034,14 @@ uses-sdk
 INJECTED from /home/ansh/expo/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/ansh/expo/android/app/src/main/AndroidManifest.xml
 INJECTED from /home/ansh/expo/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-blur] /home/ansh/expo/node_modules/react-native-blur/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-blur] /home/ansh/expo/node_modules/react-native-blur/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-fingerprint-scanner] /home/ansh/expo/node_modules/react-native-fingerprint-scanner/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-fingerprint-scanner] /home/ansh/expo/node_modules/react-native-fingerprint-scanner/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] /home/ansh/expo/node_modules/react-native-linear-gradient/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] /home/ansh/expo/node_modules/react-native-linear-gradient/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:mobile-center] /home/ansh/expo/node_modules/mobile-center/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:mobile-center] /home/ansh/expo/node_modules/mobile-center/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [host.exp.exponent:expoview:30.0.0] /root/.gradle/caches/transforms-1/files-1.1/expoview-30.0.0.aar/1222e0f31792ba48d5a8ebac5aab15d8/AndroidManifest.xml:7:5-9:41
 MERGED from [host.exp.exponent:expoview:30.0.0] /root/.gradle/caches/transforms-1/files-1.1/expoview-30.0.0.aar/1222e0f31792ba48d5a8ebac5aab15d8/AndroidManifest.xml:7:5-9:41
 MERGED from [com.squareup.leakcanary:leakcanary-android-no-op:1.4-beta1] /root/.gradle/caches/transforms-1/files-1.1/leakcanary-android-no-op-1.4-beta1.aar/996299755ddfd19d74667cb18e6a9f01/AndroidManifest.xml:20:5-22:41
@@ -1029,6 +1050,12 @@ MERGED from [com.android.support:multidex:1.0.1] /root/.gradle/caches/transforms
 MERGED from [com.android.support:multidex:1.0.1] /root/.gradle/caches/transforms-1/files-1.1/multidex-1.0.1.aar/581fca7210b95d8c424b5822f55fd380/AndroidManifest.xml:18:5-42
 MERGED from [com.theartofdev.edmodo:android-image-cropper:2.4.7] /root/.gradle/caches/transforms-1/files-1.1/android-image-cropper-2.4.7.aar/7f9a96cbce95d9170778604d2ecc7163/AndroidManifest.xml:8:5-10:41
 MERGED from [com.theartofdev.edmodo:android-image-cropper:2.4.7] /root/.gradle/caches/transforms-1/files-1.1/android-image-cropper-2.4.7.aar/7f9a96cbce95d9170778604d2ecc7163/AndroidManifest.xml:8:5-10:41
+MERGED from [com.facebook.react:react-native:30.0.0] /root/.gradle/caches/transforms-1/files-1.1/react-native-30.0.0.aar/ad134822de6cc6d70521286480da36a8/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:30.0.0] /root/.gradle/caches/transforms-1/files-1.1/react-native-30.0.0.aar/ad134822de6cc6d70521286480da36a8/AndroidManifest.xml:7:5-9:41
+MERGED from [com.wei.android.lib:fingerprintidentify:1.2.1] /root/.gradle/caches/transforms-1/files-1.1/fingerprintidentify-1.2.1.aar/c84161a72c4fda015ee5b846fff6e4ed/AndroidManifest.xml:8:5-10:41
+MERGED from [com.wei.android.lib:fingerprintidentify:1.2.1] /root/.gradle/caches/transforms-1/files-1.1/fingerprintidentify-1.2.1.aar/c84161a72c4fda015ee5b846fff6e4ed/AndroidManifest.xml:8:5-10:41
+MERGED from [com.microsoft.azure.mobile.react:mobile-center-react-native:0.11.2] /root/.gradle/caches/transforms-1/files-1.1/mobile-center-react-native-0.11.2.aar/cf669e844784c942d1601154bac78f5c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.microsoft.azure.mobile.react:mobile-center-react-native:0.11.2] /root/.gradle/caches/transforms-1/files-1.1/mobile-center-react-native-0.11.2.aar/cf669e844784c942d1601154bac78f5c/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.android:facebook-android-sdk:4.34.0] /root/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.34.0.aar/53db920539e1838754fb9d520ed208d5/AndroidManifest.xml:24:5-26:41
 MERGED from [com.facebook.android:facebook-android-sdk:4.34.0] /root/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.34.0.aar/53db920539e1838754fb9d520ed208d5/AndroidManifest.xml:24:5-26:41
 MERGED from [com.facebook.android:facebook-login:4.34.0] /root/.gradle/caches/transforms-1/files-1.1/facebook-login-4.34.0.aar/e06457ac22855adfc8038d4e464bdfc5/AndroidManifest.xml:24:5-26:41
@@ -1037,8 +1064,6 @@ MERGED from [com.facebook.android:facebook-share:4.34.0] /root/.gradle/caches/tr
 MERGED from [com.facebook.android:facebook-share:4.34.0] /root/.gradle/caches/transforms-1/files-1.1/facebook-share-4.34.0.aar/0a3fbd4200ad79210711fccb3a153c97/AndroidManifest.xml:24:5-26:41
 MERGED from [com.facebook.android:facebook-common:4.34.0] /root/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/37b8f12b695e4e3cd82ac36339749629/AndroidManifest.xml:24:5-26:41
 MERGED from [com.facebook.android:facebook-common:4.34.0] /root/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/37b8f12b695e4e3cd82ac36339749629/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.react:react-native:30.0.0] /root/.gradle/caches/transforms-1/files-1.1/react-native-30.0.0.aar/ad134822de6cc6d70521286480da36a8/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:30.0.0] /root/.gradle/caches/transforms-1/files-1.1/react-native-30.0.0.aar/ad134822de6cc6d70521286480da36a8/AndroidManifest.xml:7:5-9:41
 MERGED from [host.exp.exponent:expo-permissions:1.1.0] /root/.gradle/caches/transforms-1/files-1.1/expo-permissions-1.1.0.aar/4fdc42cd016b2905b2a579faeaffa346/AndroidManifest.xml:7:5-9:41
 MERGED from [host.exp.exponent:expo-permissions:1.1.0] /root/.gradle/caches/transforms-1/files-1.1/expo-permissions-1.1.0.aar/4fdc42cd016b2905b2a579faeaffa346/AndroidManifest.xml:7:5-9:41
 MERGED from [host.exp.exponent:expo-camera:1.1.0] /root/.gradle/caches/transforms-1/files-1.1/expo-camera-1.1.0.aar/fb29b8aeb6f9a0ad714879249ce14f46/AndroidManifest.xml:7:5-9:41
@@ -1105,6 +1130,10 @@ MERGED from [host.exp.exponent:expo-media-library:1.0.0] /root/.gradle/caches/tr
 MERGED from [host.exp.exponent:expo-media-library:1.0.0] /root/.gradle/caches/transforms-1/files-1.1/expo-media-library-1.0.0.aar/6a3faf489bb07bf67d81bc89395b8558/AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:exifinterface:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.1.aar/125a20e392756dd13681bfa325cdc00f/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:exifinterface:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.1.aar/125a20e392756dd13681bfa325cdc00f/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.0.1] /root/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.0.1.aar/34c264e8c81f9fe23a51b7351894799c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.0.1] /root/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.0.1.aar/34c264e8c81f9fe23a51b7351894799c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.microsoft.azure.mobile:mobile-center:0.13.0] /root/.gradle/caches/transforms-1/files-1.1/mobile-center-0.13.0.aar/5eab7aac9fe39436fbb8e1ffbe63e719/AndroidManifest.xml:7:5-9:41
+MERGED from [com.microsoft.azure.mobile:mobile-center:0.13.0] /root/.gradle/caches/transforms-1/files-1.1/mobile-center-0.13.0.aar/5eab7aac9fe39436fbb8e1ffbe63e719/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.android:facebook-places:4.34.0] /root/.gradle/caches/transforms-1/files-1.1/facebook-places-4.34.0.aar/2e7f621d7b06edad50d6570114ef9ca9/AndroidManifest.xml:24:5-26:41
 MERGED from [com.facebook.android:facebook-places:4.34.0] /root/.gradle/caches/transforms-1/files-1.1/facebook-places-4.34.0.aar/2e7f621d7b06edad50d6570114ef9ca9/AndroidManifest.xml:24:5-26:41
 MERGED from [com.facebook.android:facebook-applinks:4.34.0] /root/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.34.0.aar/99767a8c62f9d6170baf8a910e74c093/AndroidManifest.xml:24:5-26:41
@@ -1115,6 +1144,8 @@ MERGED from [com.facebook.android:facebook-marketing:4.34.0] /root/.gradle/cache
 MERGED from [com.facebook.android:facebook-marketing:4.34.0] /root/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.34.0.aar/d1548fad2c62d5c48baa98f2f4224b35/AndroidManifest.xml:24:5-26:41
 MERGED from [com.facebook.android:facebook-core:4.34.0] /root/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/bce42df818222d2c4474de208bfb37c9/AndroidManifest.xml:24:5-26:41
 MERGED from [com.facebook.android:facebook-core:4.34.0] /root/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/bce42df818222d2c4474de208bfb37c9/AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/c6b2a1bc80f6c1294f892ea014e43f7c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/c6b2a1bc80f6c1294f892ea014e43f7c/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.exoplayer:exoplayer:2.6.1] /root/.gradle/caches/transforms-1/files-1.1/exoplayer-2.6.1.aar/07c61646bc9146a1ff34ca330ba87819/AndroidManifest.xml:21:5-23:41
 MERGED from [com.google.android.exoplayer:exoplayer:2.6.1] /root/.gradle/caches/transforms-1/files-1.1/exoplayer-2.6.1.aar/07c61646bc9146a1ff34ca330ba87819/AndroidManifest.xml:21:5-23:41
 MERGED from [com.google.android.exoplayer:exoplayer-hls:2.6.1] /root/.gradle/caches/transforms-1/files-1.1/exoplayer-hls-2.6.1.aar/d47c7a2c65046feb32c7cace96b30928/AndroidManifest.xml:21:5-23:41
@@ -1127,12 +1158,8 @@ MERGED from [com.android.support:transition:27.1.0] /root/.gradle/caches/transfo
 MERGED from [com.android.support:transition:27.1.0] /root/.gradle/caches/transforms-1/files-1.1/transition-27.1.0.aar/351d3be038db1dfdaab931977b6d2755/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:customtabs:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/customtabs-27.1.1.aar/5147058346e0f4884165990786f082fe/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:customtabs:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/customtabs-27.1.1.aar/5147058346e0f4884165990786f082fe/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/c6b2a1bc80f6c1294f892ea014e43f7c/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/c6b2a1bc80f6c1294f892ea014e43f7c/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:cardview-v7:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/4c582a6d262df275883963209a65ae45/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:cardview-v7:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/4c582a6d262df275883963209a65ae45/AndroidManifest.xml:20:5-44
-MERGED from [host.exp.exponent:expo-local-authentication:1.0.0] /root/.gradle/caches/transforms-1/files-1.1/expo-local-authentication-1.0.0.aar/0f37c0a9412b2181687fd23dba65b04c/AndroidManifest.xml:7:5-9:41
-MERGED from [host.exp.exponent:expo-local-authentication:1.0.0] /root/.gradle/caches/transforms-1/files-1.1/expo-local-authentication-1.0.0.aar/0f37c0a9412b2181687fd23dba65b04c/AndroidManifest.xml:7:5-9:41
 MERGED from [com.github.tipsi:CreditCardEntry:1.4.8.10] /root/.gradle/caches/transforms-1/files-1.1/CreditCardEntry-1.4.8.10.aar/0c6aa1fee4b746fb24991b490ef1d93b/AndroidManifest.xml:8:5-10:41
 MERGED from [com.github.tipsi:CreditCardEntry:1.4.8.10] /root/.gradle/caches/transforms-1/files-1.1/CreditCardEntry-1.4.8.10.aar/0c6aa1fee4b746fb24991b490ef1d93b/AndroidManifest.xml:8:5-10:41
 MERGED from [com.google.android.gms:play-services-iid:15.0.1] /root/.gradle/caches/transforms-1/files-1.1/play-services-iid-15.0.1.aar/6f5e3a63cff5a5e0119cdddabf0ad1af/AndroidManifest.xml:20:5-44
@@ -1199,10 +1226,12 @@ MERGED from [com.android.support:animated-vector-drawable:27.1.1] /root/.gradle/
 MERGED from [com.android.support:animated-vector-drawable:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/214341bf1eb5db529fd8961ae2c669cd/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-ui:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/c2595cd41d5d9bc45bfa1866b3e39d08/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-ui:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/c2595cd41d5d9bc45bfa1866b3e39d08/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.1.0] /root/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/71d397368c94682852ecc3aac53fea98/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.1.0] /root/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/71d397368c94682852ecc3aac53fea98/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-utils:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/b52e5371262182ba70c39f41bfbe4527/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-utils:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/b52e5371262182ba70c39f41bfbe4527/AndroidManifest.xml:20:5-44
+MERGED from [host.exp.exponent:expo-local-authentication:1.0.0] /root/.gradle/caches/transforms-1/files-1.1/expo-local-authentication-1.0.0.aar/0f37c0a9412b2181687fd23dba65b04c/AndroidManifest.xml:7:5-9:41
+MERGED from [host.exp.exponent:expo-local-authentication:1.0.0] /root/.gradle/caches/transforms-1/files-1.1/expo-local-authentication-1.0.0.aar/0f37c0a9412b2181687fd23dba65b04c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-media-compat:27.1.0] /root/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/71d397368c94682852ecc3aac53fea98/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] /root/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/71d397368c94682852ecc3aac53fea98/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/e0eec592156be82252c75a9a1c60e179/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/e0eec592156be82252c75a9a1c60e179/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-compat:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/97084ef54cad27503a2fff59c8265680/AndroidManifest.xml:20:5-44
@@ -1375,8 +1404,6 @@ MERGED from [com.crashlytics.sdk.android:crashlytics:2.5.5] /root/.gradle/caches
 MERGED from [com.crashlytics.sdk.android:crashlytics:2.5.5] /root/.gradle/caches/transforms-1/files-1.1/crashlytics-2.5.5.aar/9397a5c304caa14cd8571d3746c1fe6f/AndroidManifest.xml:7:5-43
 MERGED from [com.google.maps.android:android-maps-utils:0.5] /root/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/a8827c1030640461e4294b31663b9e00/AndroidManifest.xml:5:5-43
 MERGED from [com.google.maps.android:android-maps-utils:0.5] /root/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/a8827c1030640461e4294b31663b9e00/AndroidManifest.xml:5:5-43
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.0.1] /root/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.0.1.aar/34c264e8c81f9fe23a51b7351894799c/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.0.1] /root/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.0.1.aar/34c264e8c81f9fe23a51b7351894799c/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:drawee:1.0.1] /root/.gradle/caches/transforms-1/files-1.1/drawee-1.0.1.aar/fcd8d2ad418b904211876ca346f95b89/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:drawee:1.0.1] /root/.gradle/caches/transforms-1/files-1.1/drawee-1.0.1.aar/fcd8d2ad418b904211876ca346f95b89/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:animated-base:1.0.1] /root/.gradle/caches/transforms-1/files-1.1/animated-base-1.0.1.aar/6227c859a022e345b942607ff09b3865/AndroidManifest.xml:5:5-7:41
@@ -1415,6 +1442,14 @@ INJECTED from /home/ansh/expo/android/app/src/main/AndroidManifest.xml
 		INJECTED from /home/ansh/expo/android/app/src/main/AndroidManifest.xml
 		ADDED from /home/ansh/expo/android/app/src/main/AndroidManifest.xml
 		INJECTED from /home/ansh/expo/android/app/src/main/AndroidManifest.xml
+uses-permission#com.fingerprints.service.ACCESS_FINGERPRINT_MANAGER
+ADDED from [:react-native-fingerprint-scanner] /home/ansh/expo/node_modules/react-native-fingerprint-scanner/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:5-91
+	android:name
+		ADDED from [:react-native-fingerprint-scanner] /home/ansh/expo/node_modules/react-native-fingerprint-scanner/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:22-88
+uses-permission#com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY
+ADDED from [:react-native-fingerprint-scanner] /home/ansh/expo/node_modules/react-native-fingerprint-scanner/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:5-117
+	android:name
+		ADDED from [:react-native-fingerprint-scanner] /home/ansh/expo/node_modules/react-native-fingerprint-scanner/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:22-114
 supports-screens
 ADDED from [host.exp.exponent:expoview:30.0.0] /root/.gradle/caches/transforms-1/files-1.1/expoview-30.0.0.aar/1222e0f31792ba48d5a8ebac5aab15d8/AndroidManifest.xml:11:5-17:24
 	android:largeScreens

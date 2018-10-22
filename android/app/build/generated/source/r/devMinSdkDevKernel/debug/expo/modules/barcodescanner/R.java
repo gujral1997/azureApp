@@ -8,21 +8,21 @@ package expo.modules.barcodescanner;
 
 public final class R {
     public static final class attr {
-        public static final int buttonSize = 0x7f040058;
-        public static final int circleCrop = 0x7f040075;
-        public static final int colorScheme = 0x7f040086;
-        public static final int font = 0x7f0400f7;
-        public static final int fontProviderAuthority = 0x7f0400f9;
-        public static final int fontProviderCerts = 0x7f0400fa;
-        public static final int fontProviderFetchStrategy = 0x7f0400fb;
-        public static final int fontProviderFetchTimeout = 0x7f0400fc;
-        public static final int fontProviderPackage = 0x7f0400fd;
-        public static final int fontProviderQuery = 0x7f0400fe;
-        public static final int fontStyle = 0x7f0400ff;
-        public static final int fontWeight = 0x7f040100;
-        public static final int imageAspectRatio = 0x7f040116;
-        public static final int imageAspectRatioAdjust = 0x7f040117;
-        public static final int scopeUris = 0x7f040199;
+        public static final int buttonSize = 0x7f040059;
+        public static final int circleCrop = 0x7f040076;
+        public static final int colorScheme = 0x7f040087;
+        public static final int font = 0x7f0400f9;
+        public static final int fontProviderAuthority = 0x7f0400fb;
+        public static final int fontProviderCerts = 0x7f0400fc;
+        public static final int fontProviderFetchStrategy = 0x7f0400fd;
+        public static final int fontProviderFetchTimeout = 0x7f0400fe;
+        public static final int fontProviderPackage = 0x7f0400ff;
+        public static final int fontProviderQuery = 0x7f040100;
+        public static final int fontStyle = 0x7f040101;
+        public static final int fontWeight = 0x7f040102;
+        public static final int imageAspectRatio = 0x7f040118;
+        public static final int imageAspectRatioAdjust = 0x7f040119;
+        public static final int scopeUris = 0x7f04019c;
     }
     public static final class bool {
         public static final int abc_action_bar_embed_tabs = 0x7f050000;
@@ -39,13 +39,13 @@ public final class R {
         public static final int common_google_signin_btn_text_light_focused = 0x7f060058;
         public static final int common_google_signin_btn_text_light_pressed = 0x7f060059;
         public static final int common_google_signin_btn_tint = 0x7f06005a;
-        public static final int notification_action_color_filter = 0x7f060084;
-        public static final int notification_icon_bg_color = 0x7f060085;
-        public static final int notification_material_background_media_default_color = 0x7f060086;
-        public static final int primary_text_default_material_dark = 0x7f06008c;
-        public static final int ripple_material_light = 0x7f060091;
-        public static final int secondary_text_default_material_dark = 0x7f060092;
-        public static final int secondary_text_default_material_light = 0x7f060093;
+        public static final int notification_action_color_filter = 0x7f060085;
+        public static final int notification_icon_bg_color = 0x7f060086;
+        public static final int notification_material_background_media_default_color = 0x7f060087;
+        public static final int primary_text_default_material_dark = 0x7f06008d;
+        public static final int ripple_material_light = 0x7f060092;
+        public static final int secondary_text_default_material_dark = 0x7f060093;
+        public static final int secondary_text_default_material_light = 0x7f060094;
     }
     public static final class dimen {
         public static final int compat_button_inset_horizontal_material = 0x7f070072;
@@ -147,8 +147,8 @@ public final class R {
     }
     public static final class integer {
         public static final int cancel_button_image_alpha = 0x7f0a0004;
-        public static final int google_play_services_version = 0x7f0a000a;
-        public static final int status_bar_notification_info_maxnum = 0x7f0a000e;
+        public static final int google_play_services_version = 0x7f0a000c;
+        public static final int status_bar_notification_info_maxnum = 0x7f0a0010;
     }
     public static final class layout {
         public static final int notification_action = 0x7f0b0057;
@@ -203,25 +203,25 @@ public final class R {
         public static final int Widget_Compat_NotificationActionText = 0x7f1001b8;
     }
     public static final class styleable {
-        public static final int[] FontFamily = { 0x7f0400f9, 0x7f0400fa, 0x7f0400fb, 0x7f0400fc, 0x7f0400fd, 0x7f0400fe };
+        public static final int[] FontFamily = { 0x7f0400fb, 0x7f0400fc, 0x7f0400fd, 0x7f0400fe, 0x7f0400ff, 0x7f040100 };
         public static final int FontFamily_fontProviderAuthority = 0;
         public static final int FontFamily_fontProviderCerts = 1;
         public static final int FontFamily_fontProviderFetchStrategy = 2;
         public static final int FontFamily_fontProviderFetchTimeout = 3;
         public static final int FontFamily_fontProviderPackage = 4;
         public static final int FontFamily_fontProviderQuery = 5;
-        public static final int[] FontFamilyFont = { 0x01010532, 0x01010533, 0x0101053f, 0x7f0400f7, 0x7f0400ff, 0x7f040100 };
+        public static final int[] FontFamilyFont = { 0x01010532, 0x01010533, 0x0101053f, 0x7f0400f9, 0x7f040101, 0x7f040102 };
         public static final int FontFamilyFont_android_font = 0;
         public static final int FontFamilyFont_android_fontWeight = 1;
         public static final int FontFamilyFont_android_fontStyle = 2;
         public static final int FontFamilyFont_font = 3;
         public static final int FontFamilyFont_fontStyle = 4;
         public static final int FontFamilyFont_fontWeight = 5;
-        public static final int[] LoadingImageView = { 0x7f040075, 0x7f040116, 0x7f040117 };
+        public static final int[] LoadingImageView = { 0x7f040076, 0x7f040118, 0x7f040119 };
         public static final int LoadingImageView_circleCrop = 0;
         public static final int LoadingImageView_imageAspectRatio = 1;
         public static final int LoadingImageView_imageAspectRatioAdjust = 2;
-        public static final int[] SignInButton = { 0x7f040058, 0x7f040086, 0x7f040199 };
+        public static final int[] SignInButton = { 0x7f040059, 0x7f040087, 0x7f04019c };
         public static final int SignInButton_buttonSize = 0;
         public static final int SignInButton_colorScheme = 1;
         public static final int SignInButton_scopeUris = 2;

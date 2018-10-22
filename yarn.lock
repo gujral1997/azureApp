@@ -4337,10 +4337,22 @@ react-devtools-core@3.1.0:
     shell-quote "^1.6.1"
     ws "^2.0.3"
 
+react-native-blur@^3.2.2:
+  version "3.2.2"
+  resolved "https://registry.yarnpkg.com/react-native-blur/-/react-native-blur-3.2.2.tgz#5bfb50638d148982c9560436554ed01d77d6d07d"
+  integrity sha512-r7zNQISL7kQX5ocQEet5QVOBzoXP+Nr3dO7Wql+fV6rebx/8I7eAUHnfITDx12WoOmRpiJjbt/4xF5gTEll6Uw==
+  dependencies:
+    prop-types "^15.5.10"
+
 react-native-branch@2.2.5:
   version "2.2.5"
   resolved "https://registry.yarnpkg.com/react-native-branch/-/react-native-branch-2.2.5.tgz#4074dd63b4973e6397d9ce50e97b57c77a518e9d"
   integrity sha1-QHTdY7SXPmOX2c5Q6XtXx3pRjp0=
+
+react-native-fingerprint-scanner@^2.5.0:
+  version "2.5.0"
+  resolved "https://registry.yarnpkg.com/react-native-fingerprint-scanner/-/react-native-fingerprint-scanner-2.5.0.tgz#259c497911d90250409f8ebfe55a66c6b1bc6798"
+  integrity sha512-GJWR/AK4JDXsjFJ72dYrZZl97Vhf+uFl6Laqk3Ep5PwPxFKGD9jDwb9z4ltnNEAwMdmoN6O+xx6zqcWs7aYIVQ==
 
 react-native-gesture-handler@1.0.6:
   version "1.0.6"

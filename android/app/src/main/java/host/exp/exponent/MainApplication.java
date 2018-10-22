@@ -10,6 +10,8 @@ import expolib_v1.okhttp3.OkHttpClient;
 
 // Needed for `react-native link`
 // import com.facebook.react.ReactApplication;
+import com.cmcewen.blurview.BlurViewPackage;
+import com.hieuvp.fingerprint.ReactNativeFingerprintScannerPackage;
 import com.BV.LinearGradient.LinearGradientPackage;
 import com.microsoft.azure.mobile.react.mobilecenter.RNMobileCenterPackage;
 
@@ -28,6 +30,8 @@ public class MainApplication extends ExpoApplication {
 
         // Needed for `react-native link`
         // new MainReactPackage(),
+            new BlurViewPackage(),
+            new ReactNativeFingerprintScannerPackage(),
             new LinearGradientPackage(),
             new RNMobileCenterPackage(MainApplication.this)
     );
